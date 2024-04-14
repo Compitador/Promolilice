@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROMO LILICE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcc00;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #0056b3;
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+        }
+        .promo {
+            background-color: #0056b3;
+            color: #ffffff;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .promo h2 {
+            margin-top: 0;
+        }
+        footer {
+            background-color: #0056b3;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PROMO LILICE</h1>
+    </header>
+    <main>
+        <div class="promo">
+            <h2>Promoção da Semana</h2>
+            <p>Descontos imperdíveis! Confira nossas ofertas especiais.</p>
+        </div>
+        <div class="promo">
+            <h2>Oferta Relâmpago</h2>
+            <p>Corra! Promoção por tempo limitado. Não perca!</p>
+        </div>
+    </main>
+    <footer>
+        <p>Siga-nos no <a href="https://www.instagram.com/promolilice/" target="_blank">Instagram</a> para mais novidades!</p>
+    </footer>
+</body>
+</html>
